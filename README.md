@@ -23,6 +23,11 @@ con el fin de dar rienda suelta a mi creatividad.
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 
 
+## Contacto y Ayuda
+Como has podido obsevar estoy empezando en este mundo si quieres ayudarme a mejorar puedes contactarme 
+a través de este correo estaré encantado de leerte 😄
+</br>
+[![Email](https://img.shields.io/badge/alexdevrep@gmail.com-46ad3b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:alexdevrep@gmail.com)
 
 <!--
 **alexdevrep/alexdevrep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
