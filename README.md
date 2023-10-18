@@ -7,16 +7,16 @@
 #### Sobre mí
 Soy técnico en electrónica desde hace tres años.
 
-Hace poco dejé mi trabajo como técnico de aplicaciones en una multinacional y ahora mismo me 
+Hace poco dejé mi trabajo como técnico de aplicaciones y ahora mismo me 
 encuentro aprendiendo sobre este mundo.
 
 Mi principal objetivo es ser capaz **de combinar mis conocimentos sobre electrónica y programación**
 con el fin de dar rienda suelta a mi creatividad.
 
-## Mis tencologías favoritas:
-
-
-
+## ¿Qué tecnologías vas a encontrar en mi perfil?:
+![Static_Badge](https://img.shields.io/badge/AUTOCAD-000000?style=for-the-badge&logo=Autodesk)
+![Static_Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Static_Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
 
 
