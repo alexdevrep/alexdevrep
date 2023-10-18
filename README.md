@@ -15,7 +15,7 @@ con el fin de dar rienda suelta a mi creatividad.
 
 ## ¿Qué tecnologías vas a encontrar en mi perfil?:
 ![Static_Badge](https://img.shields.io/badge/AUTOCAD-000000?style=for-the-badge&logo=Autodesk)
-![Static_Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
+[![Static_Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 ![Static_Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 
