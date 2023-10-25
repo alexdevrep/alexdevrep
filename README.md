@@ -5,7 +5,7 @@
 ![GitHub Followers](https://img.shields.io/github/stars/alexdevrep?style=social)
 
 #### Sobre mí
-Soy técnico en electrónica desde hace tres años.🤖
+Soy técnico en electrónica desde hace dos años.🤖
 
 Hace poco dejé mi trabajo como técnico de aplicaciones💻 y ahora mismo me 
 encuentro aprendiendo sobre este mundo.🖥️
