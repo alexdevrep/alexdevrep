@@ -13,7 +13,7 @@ haciendome PULL REQUEST con una URL y un pequeño comentario con una descripció
 </br>
 ## Lista
 <ul>
-  <li><a href="https://alexdevrep.github.io/" target="_blank">Mi portfolio personal🙂</a></li> 
- 
+  <li>[Mi portfolio personal](https://alexdevrep.github.io/)🙂</li> 
+  <li></li>
   
 </ul>
