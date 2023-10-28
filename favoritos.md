@@ -17,7 +17,7 @@ Nota: Copia y pega las URL es una pestaña nueva que ya aún no se como hacer qu
 <ul>
   <li>[Mi portfolio personal](https://alexdevrep.github.io/) 🙂</li> 
   <li>[Mi perfil en Linkedin](www.linkedin.com/in/alejandro-díaz-sastre-0b0a3b213)</li>
-  <li>[Documentación HTML5](https://developer.mozilla.org/en-US/)https://developer.mozilla.org/en-US/)</li>
+  <li>[Documentación HTML5](https://developer.mozilla.org/en-US/)</li>
   <li>[Footprints Componentes](https://componentsearchengine.com/)</li>
   
   
