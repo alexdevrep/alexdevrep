@@ -10,7 +10,7 @@ haciendome PULL REQUEST con una URL y un pequeño comentario con una descripció
 </br>
 🏗️Este archivo se encuentra en constante construcción, asegurate de que estás viendo la última versión del mismo😃
 </br>
-Nota: Copia y pega las URL es una pestaña nueva que ya aún no se como hacer que abra una automáticamente
+Nota: Haz click derecho -> abrir en una pestaña nueva, ya que aún no se como hacer que abra una automáticamente
 </br>
 </br>
 ## Lista
