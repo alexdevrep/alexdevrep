@@ -19,6 +19,7 @@ Nota: Haz click derecho -> abrir en una pestaña nueva, ya que aún no se como h
   <li>[Mi perfil en Linkedin](www.linkedin.com/in/alejandro-díaz-sastre-0b0a3b213)</li>
   <li>[Documentación HTML5](https://developer.mozilla.org/en-US/)</li>
   <li>[Footprints Componentes](https://componentsearchengine.com/)</li>
-  
+  <li>[Roadmap para programar](https://roadmap.sh/)</li>
+  <li>[Recurso para aprender JavaScript](https://www.aprendejavascript.dev/)</li>
   
 </ul>
