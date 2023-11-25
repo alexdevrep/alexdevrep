@@ -22,5 +22,6 @@ Nota: Haz click derecho -> abrir en una pestaña nueva, ya que aún no se como h
   <li>[Roadmap para programar](https://roadmap.sh/)</li>
   <li>[Recurso para aprender JavaScript](https://www.aprendejavascript.dev/)</li>
   <li>[Más recursos sobre desarrollo web](https://manz.dev/)</li>
+  <li>[Más recursos para desarrollo web](https://thevalleyofcode.com/)</li>
   
 </ul>
